@@ -2,7 +2,7 @@
 @import url(../section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../table/_theme/table_theme_dark.css);
 @import url(../table/__cell/_theme/table__cell_theme_dark.css);
-@import url(./__triangle/kaufman__triangle.css);
+@import url(__triangle/kaufman__triangle.css);
 
 .kaufman {
   width: 100%;
